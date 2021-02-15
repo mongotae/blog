@@ -1,0 +1,5 @@
+baseURL = "http://mongotae.github.io/"
+languageCode = "kr"
+defaultContentLanguage = "en-us"
+title = "Mongotae's Blog"
+theme = "hugo-tranquilpeak-theme"
